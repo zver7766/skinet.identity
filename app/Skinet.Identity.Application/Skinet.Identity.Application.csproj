@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Skinet.Identity.Domain\Skinet.Identity.Domain.csproj" />
+      <ProjectReference Include="..\Skinet.Identity.Infrastructure\Skinet.Identity.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

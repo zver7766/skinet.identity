@@ -1,0 +1,12 @@
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\bin\Debug\net5.0\Skinet.Identity.Domain.deps.json
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\bin\Debug\net5.0\Skinet.Identity.Domain.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\bin\Debug\net5.0\ref\Skinet.Identity.Domain.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\bin\Debug\net5.0\Skinet.Identity.Domain.pdb
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\obj\Debug\net5.0\Skinet.Identity.Domain.csproj.AssemblyReference.cache
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\obj\Debug\net5.0\Skinet.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\obj\Debug\net5.0\Skinet.Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\obj\Debug\net5.0\Skinet.Identity.Domain.AssemblyInfo.cs
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\obj\Debug\net5.0\Skinet.Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\obj\Debug\net5.0\Skinet.Identity.Domain.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\obj\Debug\net5.0\ref\Skinet.Identity.Domain.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Domain\obj\Debug\net5.0\Skinet.Identity.Domain.pdb

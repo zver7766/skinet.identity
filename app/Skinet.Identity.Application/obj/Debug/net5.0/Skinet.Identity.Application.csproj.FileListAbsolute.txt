@@ -1,0 +1,17 @@
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\bin\Debug\net5.0\Skinet.Identity.Application.deps.json
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\bin\Debug\net5.0\Skinet.Identity.Application.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\bin\Debug\net5.0\ref\Skinet.Identity.Application.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\bin\Debug\net5.0\Skinet.Identity.Application.pdb
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\obj\Debug\net5.0\Skinet.Identity.Application.csproj.AssemblyReference.cache
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\obj\Debug\net5.0\Skinet.Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\obj\Debug\net5.0\Skinet.Identity.Application.AssemblyInfoInputs.cache
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\obj\Debug\net5.0\Skinet.Identity.Application.AssemblyInfo.cs
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\obj\Debug\net5.0\Skinet.Identity.Application.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\obj\Debug\net5.0\Skinet.Identity.Application.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\obj\Debug\net5.0\ref\Skinet.Identity.Application.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\obj\Debug\net5.0\Skinet.Identity.Application.pdb
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\bin\Debug\net5.0\Skinet.Identity.Domain.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\bin\Debug\net5.0\Skinet.Identity.Infrastructure.dll
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\bin\Debug\net5.0\Skinet.Identity.Domain.pdb
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\bin\Debug\net5.0\Skinet.Identity.Infrastructure.pdb
+C:\Users\Maksym\RiderProjects\e-skinet\e-skinet.identity\app\Skinet.Identity.Application\obj\Debug\net5.0\Skinet.Identity.Application.csproj.CopyComplete
