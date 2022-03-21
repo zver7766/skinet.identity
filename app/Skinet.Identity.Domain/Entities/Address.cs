@@ -8,8 +8,6 @@ namespace Skinet.Identity.Domain.Entities
         
         public DeliveryDetails DeliveryDetails { get; private set; }
         
-        public AppUser AppUser { get; private set; }
-
         public Address(
             UserName userName,
             DeliveryDetails deliveryDetails

@@ -157,13 +157,7 @@ namespace Infrastructure.Identity.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("AppUserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("AppUserId");
 
                     b.ToTable("Address");
                 });
@@ -294,12 +288,6 @@ namespace Infrastructure.Identity.Migrations
 
             modelBuilder.Entity("Skinet.Identity.Domain.Entities.Address", b =>
                 {
-                    b.HasOne("Skinet.Identity.Domain.Entities.AppUser", "AppUser")
-                        .WithMany()
-                        .HasForeignKey("AppUserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.OwnsOne("Skinet.Identity.Domain.ValueObjects.DeliveryDetails", "DeliveryDetails", b1 =>
                         {
                             b1.Property<int>("AddressId")
@@ -359,8 +347,6 @@ namespace Infrastructure.Identity.Migrations
                             b1.WithOwner()
                                 .HasForeignKey("AddressId");
                         });
-
-                    b.Navigation("AppUser");
 
                     b.Navigation("DeliveryDetails");
 

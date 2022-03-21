@@ -42,10 +42,6 @@ namespace Skinet.Identity.Infrastructure.EntityConfigurations
                     .HasColumnName(nameof(DeliveryDetails.ZipCode))
                     .IsRequired();
             });
-
-            addressBuilder.HasOne(address => address.AppUser)
-                .WithMany()
-                .IsRequired();
         }
     }
 }
